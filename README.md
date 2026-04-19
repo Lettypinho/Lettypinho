@@ -1,7 +1,7 @@
 # Olá! Eu sou Letícia Pinho 👋
 
 <p align="center">
-  <img src="[https://github.com/Lettypinho/Lettypinho/blob/main/dreamina-2026-04-19-6685-Transform%20this%20static%20pixel%20art%20image%20in...gif](https://github.com/Lettypinho/Lettypinho/blob/main/WhatsApp%20Video%202026-04-19%20at%2018.15.59.gif?raw=true" width="500px" alt="coding gif](https://github.com/Lettypinho/Lettypinho/blob/main/WhatsApp%20Video%202026-04-19%20at%2018.15.59.gif)"](https://github.com/Lettypinho/Lettypinho/blob/main/WhatsApp%20Video%202026-04-19%20at%2018.15.59.gif?raw=true) />
+  <img src="https://github.com/Lettypinho/Lettypinho/blob/main/WhatsApp%20Video%202026-04-19%20at%2018.15.59.gif?raw=true" width="500px" alt="coding gif"/>
 </p>
 
 <p align="center">
@@ -95,18 +95,3 @@ O que mais me motiva na tecnologia é a possibilidade de **criar soluções úte
 <p align="center">
   ✨ Sempre aprendendo, evoluindo e buscando construir soluções que possam gerar impacto real por meio da tecnologia.
 </p>
-
-<!--
-**Lettypinho/Lettypinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
